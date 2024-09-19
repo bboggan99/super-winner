@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Britton Boggan</title>
+</head>
+
+<body>
+    <h1>Britton Boggan</h1>
+
+    <section>
+        <h2>Academics</h2>
+        <p>My major is biology. I want to do well in undergrad with GPA, volunteer, and research in order to apply to medical school and become a doctor.</p>
+    </section>
+
+    <section>
+        <h2>About</h2>
+        <section>
+            <h3>Places Lived</h3>
+            <p>I grew up in Birmingham, went to military in the Carolinas, and now I'm in Tuscaloosa. I lived in Yellowstone National Park for a summer.</p>
+        </section>
+        <section>
+            <h3>Interests</h3>
+            <p>Be it outdoors, media, people, or philosophy, I have a lot of interests. I recently got a plant and have a replica of General Washington's flag he flew during the Revolutionary War. I think Porsche 911 Spyders are beautiful. Princess Diana looked like a queen—fitting. Art and beauty run the world, and I am here for it. I also value reliability; I have had three Toyota-made automobiles—I crashed two of them. I am the problem, not them.</p>
+        </section>
+        <section>
+            <h3>Views</h3>
+            <p>Family is important. You are important. What you do for yourself helps others too. Follow your path, work hard, and God will bless you—and not just because you sneezed.</p>
+        </section>
+    </section>
+
+    <section>
+        <h2>Fun Facts</h2>
+        <ul>
+            <li>Owns a plant</li>
+            <li>Has five siblings</li>
+            <li>Drives a 4Runner</li>
+        </ul>
+    </section>
+    
+</body>
+</html>
